@@ -36,14 +36,9 @@ To run this project locally, follow these steps:
 git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name
 
-2️⃣ Install dependencies:
-```sh
-pip install -r requirements.txt
-
-## 🚀 Usage
-1️⃣ Load the dataset and preprocess it.
-2️⃣ Choose a model and run the forecasting script.
-3️⃣ Evaluate the model's performance using the provided metrics.
+  2️⃣ Install dependencies:
+   ```sh
+    pip install -r requirements.txt
 
 
 
